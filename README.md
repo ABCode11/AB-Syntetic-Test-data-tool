@@ -1,3 +1,30 @@
+# Synthetic Test Data Generator
+
+## Description
+
+This is a Python application that generates synthetic test data using a graphical user interface (GUI). It allows users to create custom datasets with various field types, including names, emails, phone numbers, dates, and random numbers.
+
+## Features
+
+- User-friendly GUI built with Tkinter
+- Customizable data fields
+- Support for multiple data types (Personal, Financial, Product)
+- Adjustable record count
+- Export data to CSV format
+
+## Requirements
+
+- Python 3.x
+- Tkinter (usually comes pre-installed with Python)
+- Faker
+- Pandas
+
+## Installation
+
+1. Ensure you have Python 3.x installed on your system.
+2. Install the required packages:
+
+
 
 2. The GUI will appear. Follow these steps to generate data:
    - Select the data type from the dropdown menu.
@@ -19,6 +46,7 @@ Contributions, issues, and feature requests are welcome. Feel free to check [iss
 
 ## License
 
-none feel free to use
+None – feel free to use
+
 
 
